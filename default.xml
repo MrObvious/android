@@ -95,7 +95,7 @@
   <project path="external/hamcrest" name="CyanogenMod/android_external_hamcrest" />
   <project path="external/harfbuzz" name="CyanogenMod/android_external_harfbuzz" />
 
-  <project path="external/hostapd" name="tpruvot/android_external_hostapd" />
+  <project path="external/hostapd" name="tpruvot/android_external_hostapd"  revision="ics" />
 
   <project path="external/hyphenation" name="CyanogenMod/android_external_hyphenation" />
   <project path="external/icu4c" name="CyanogenMod/android_external_icu4c" />
