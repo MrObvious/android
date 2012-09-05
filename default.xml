@@ -244,6 +244,9 @@
   <project path="hardware/ti/wlan" name="kfazz/android_hardware_ti_wlan" />
 
   <project path="hardware/ti/wpan" name="CyanogenMod/android_hardware_ti_wpan" />
+
+  <project path="kernel/motorola/sholes" name="kfazz/android_kernel_motorola_sholes" />
+
   <project path="libcore" name="CyanogenMod/android_libcore" />
   <project path="libnativehelper" name="CyanogenMod/android_libnativehelper" />
   <project path="ndk" name="CyanogenMod/android_ndk" />
