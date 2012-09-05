@@ -357,6 +357,7 @@
   <project path="system/su" name="CyanogenMod/android_system_su" />
   <project path="system/vold" name="CyanogenMod/android_system_vold" />
 
+  <project path="system/wlan/ti" name="kfazz/android_system_wlan_ti" />
   <project path="vendor/cm" name="kfazz/android_vendor_cm" />
   <project path="vendor/motorola" name="kfazz/proprietary_vendor_motorola" />
 
