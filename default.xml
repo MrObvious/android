@@ -192,6 +192,7 @@
   <project path="external/webp" name="CyanogenMod/android_external_webp" />
   <project path="external/webrtc" name="CyanogenMod/android_external_webrtc" />
 
+  <project path="external/wpa_supplicant" name="CyanogenMod/android_external_wpa_supplicant" revision="ics" />
   <project path="external/wpa_supplicant_6" name="kfazz/android_external_wpa_supplicant_6" />
 
   <project path="external/wpa_supplicant_8" name="CyanogenMod/android_external_wpa_supplicant_8" />
